@@ -37,6 +37,5 @@ Frontend / Backend Developer with experience in microservices architecture and s
 
 ## Contact
 - 📧 Email: vladimir.piniazhin@gmail.com
-- 📱 Phone: +358 46 964 01 04
 - 🔗 LinkedIn: [https://www.linkedin.com/in/vladimir-piniazhin/]
 - 💻 GitHub: [https://github.com/VladimirPiniazhin] 
