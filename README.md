@@ -3,6 +3,11 @@
 Frontend / Backend Developer with experience in microservices architecture and scalable solutions. Specializing in Next.js, React, TypeScript. Strong knowledge in backend development using Node.js, Go, Python. Experience in IoT device development using C/C++
 
 ---
+## Examples of deployed projects
+[https://www.linkedin.com/in/vladimir-piniazhin/]
+- Template for a small e-commerce project. Frontend: Next.js, Backend: Boot Spring [https://rose4you-vladimirpiniazhins-projects.vercel.app/]
+- Application using Next.js to process data coming from the API server running on NestJS [https://vladimirpiniazhin.github.io/Next.js-CoursesApp/]
+
 
 ## About me
 - **Location:** Espoo, Finland
