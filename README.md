@@ -39,6 +39,6 @@ Frontend / Backend Developer with experience in microservices architecture and s
 - 💻 GitHub: [https://github.com/VladimirPiniazhin]
 ---
 ## Projects
-- Разработка нового сайта Archimedus Ltd которую веду сейчас единолично [https://arhimed.biz/]
+- Spearheading the complete development and architecture of a new website for Archimedus Ltd [https://arhimed.biz/]
 - Template for a small e-commerce project. Frontend: Next.js, Backend: Spring Boot [https://rose4you-vladimirpiniazhins-projects.vercel.app/]
 - Application using Next.js to process data coming from the API server running on NestJS [https://vladimirpiniazhin.github.io/Next.js-CoursesApp/]
