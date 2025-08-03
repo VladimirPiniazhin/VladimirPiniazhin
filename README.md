@@ -3,7 +3,6 @@
 Frontend / Backend Developer with experience in microservices architecture and scalable solutions. Specializing in Next.js, React, TypeScript. Strong knowledge in backend development using Node.js, Go, Python. Experience in IoT device development using C/C++
 
 ## About me
-- **Location:** Espoo, Finland
 - **Languages:** Finnish, English, Russian
 - **Interests:** Full-stack development, microservices architecture, performance optimization
 - **Passions:** Creating efficient architectures and scalable solutions
